@@ -1,0 +1,728 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[13:16:37] 
+[13:16:37] Server Plugins
+[13:16:37] --------------
+[13:16:37]  Loading plugin: streamer.dll
+[13:16:38] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[13:16:38]   Loaded.
+[13:16:38]  Loading plugin: sscanf.dll
+[13:16:38] 
+
+[13:16:38]  ===============================
+
+[13:16:38]       sscanf plugin loaded.     
+
+[13:16:38]    (c) 2009 Alex "Y_Less" Cole
+
+[13:16:38]    0.3d-R2 500 Players "dnee"
+
+[13:16:38]  ===============================
+
+[13:16:38]   Loaded.
+[13:16:38]  Loading plugin: Whirlpool.dll
+[13:16:39]  
+[13:16:39]  ==================
+[13:16:39]  
+[13:16:39]   Whirlpool loaded
+[13:16:39]  
+[13:16:39]  ==================
+[13:16:39]  
+[13:16:39]   Loaded.
+[13:16:39]  Loading plugin: fixes2.dll
+[13:16:39] 
+
+[13:16:39]  ===============================
+
+[13:16:39]        fixes plugin loaded.     
+
+[13:16:39]    (c) 2012 Alex "Y_Less" Cole
+
+[13:16:39]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[13:17:29] 
+[13:17:29] Server Plugins
+[13:17:29] --------------
+[13:17:29]  Loading plugin: streamer.dll
+[13:17:29] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[13:17:29]   Loaded.
+[13:17:29]  Loading plugin: sscanf.dll
+[13:17:29] 
+
+[13:17:29]  ===============================
+
+[13:17:29]       sscanf plugin loaded.     
+
+[13:17:29]    (c) 2009 Alex "Y_Less" Cole
+
+[13:17:29]    0.3d-R2 500 Players "dnee"
+
+[13:17:29]  ===============================
+
+[13:17:29]   Loaded.
+[13:17:29]  Loading plugin: Whirlpool.dll
+[13:17:29]  
+[13:17:29]  ==================
+[13:17:29]  
+[13:17:29]   Whirlpool loaded
+[13:17:29]  
+[13:17:29]  ==================
+[13:17:29]  
+[13:17:29]   Loaded.
+[13:17:29]  Loading plugin: fixes2.dll
+[13:17:29] 
+
+[13:17:29]  ===============================
+
+[13:17:29]        fixes plugin loaded.     
+
+[13:17:29]    (c) 2012 Alex "Y_Less" Cole
+
+[13:17:29]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[13:24:11] 
+[13:24:11] Server Plugins
+[13:24:11] --------------
+[13:24:11]  Loading plugin: streamer.dll
+[13:24:11] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[13:24:11]   Loaded.
+[13:24:11]  Loading plugin: sscanf.dll
+[13:24:11] 
+
+[13:24:11]  ===============================
+
+[13:24:11]       sscanf plugin loaded.     
+
+[13:24:11]    (c) 2009 Alex "Y_Less" Cole
+
+[13:24:11]    0.3d-R2 500 Players "dnee"
+
+[13:24:11]  ===============================
+
+[13:24:11]   Loaded.
+[13:24:11]  Loading plugin: Whirlpool.dll
+[13:24:11]  
+[13:24:11]  ==================
+[13:24:11]  
+[13:24:11]   Whirlpool loaded
+[13:24:11]  
+[13:24:11]  ==================
+[13:24:11]  
+[13:24:11]   Loaded.
+[13:24:11]  Loading plugin: fixes2.dll
+[13:24:11] 
+
+[13:24:11]  ===============================
+
+[13:24:11]        fixes plugin loaded.     
+
+[13:24:11]    (c) 2012 Alex "Y_Less" Cole
+
+[13:24:11]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[13:30:19] 
+[13:30:19] Server Plugins
+[13:30:19] --------------
+[13:30:19]  Loading plugin: streamer.dll
+[13:30:19] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[13:30:19]   Loaded.
+[13:30:19]  Loading plugin: sscanf.dll
+[13:30:19] 
+
+[13:30:19]  ===============================
+
+[13:30:19]       sscanf plugin loaded.     
+
+[13:30:19]    (c) 2009 Alex "Y_Less" Cole
+
+[13:30:19]    0.3d-R2 500 Players "dnee"
+
+[13:30:19]  ===============================
+
+[13:30:19]   Loaded.
+[13:30:19]  Loading plugin: Whirlpool.dll
+[13:30:19]  
+[13:30:19]  ==================
+[13:30:19]  
+[13:30:19]   Whirlpool loaded
+[13:30:19]  
+[13:30:19]  ==================
+[13:30:19]  
+[13:30:19]   Loaded.
+[13:30:19]  Loading plugin: fixes2.dll
+[13:30:19] 
+
+[13:30:19]  ===============================
+
+[13:30:19]        fixes plugin loaded.     
+
+[13:30:19]    (c) 2012 Alex "Y_Less" Cole
+
+[13:30:19]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[13:42:40] 
+[13:42:40] Server Plugins
+[13:42:40] --------------
+[13:42:40]  Loading plugin: streamer.dll
+[13:42:40] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[13:42:40]   Loaded.
+[13:42:40]  Loading plugin: sscanf.dll
+[13:42:40] 
+
+[13:42:40]  ===============================
+
+[13:42:40]       sscanf plugin loaded.     
+
+[13:42:40]    (c) 2009 Alex "Y_Less" Cole
+
+[13:42:40]    0.3d-R2 500 Players "dnee"
+
+[13:42:40]  ===============================
+
+[13:42:40]   Loaded.
+[13:42:40]  Loading plugin: Whirlpool.dll
+[13:42:40]  
+[13:42:40]  ==================
+[13:42:40]  
+[13:42:40]   Whirlpool loaded
+[13:42:40]  
+[13:42:40]  ==================
+[13:42:40]  
+[13:42:40]   Loaded.
+[13:42:40]  Loading plugin: fixes2.dll
+[13:42:40] 
+
+[13:42:40]  ===============================
+
+[13:42:40]        fixes plugin loaded.     
+
+[13:42:40]    (c) 2012 Alex "Y_Less" Cole
+
+[13:42:40]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[13:43:51] 
+[13:43:51] Server Plugins
+[13:43:51] --------------
+[13:43:51]  Loading plugin: streamer.dll
+[13:43:51] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[13:43:51]   Loaded.
+[13:43:51]  Loading plugin: sscanf.dll
+[13:43:51] 
+
+[13:43:51]  ===============================
+
+[13:43:51]       sscanf plugin loaded.     
+
+[13:43:51]    (c) 2009 Alex "Y_Less" Cole
+
+[13:43:51]    0.3d-R2 500 Players "dnee"
+
+[13:43:51]  ===============================
+
+[13:43:51]   Loaded.
+[13:43:51]  Loading plugin: Whirlpool.dll
+[13:43:51]  
+[13:43:51]  ==================
+[13:43:51]  
+[13:43:51]   Whirlpool loaded
+[13:43:51]  
+[13:43:51]  ==================
+[13:43:51]  
+[13:43:51]   Loaded.
+[13:43:51]  Loading plugin: fixes2.dll
+[13:43:51] 
+
+[13:43:51]  ===============================
+
+[13:43:51]        fixes plugin loaded.     
+
+[13:43:51]    (c) 2012 Alex "Y_Less" Cole
+
+[13:43:51]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[13:45:06] 
+[13:45:06] Server Plugins
+[13:45:06] --------------
+[13:45:06]  Loading plugin: streamer.dll
+[13:45:06] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[13:45:06]   Loaded.
+[13:45:06]  Loading plugin: sscanf.dll
+[13:45:06] 
+
+[13:45:06]  ===============================
+
+[13:45:06]       sscanf plugin loaded.     
+
+[13:45:06]    (c) 2009 Alex "Y_Less" Cole
+
+[13:45:06]    0.3d-R2 500 Players "dnee"
+
+[13:45:06]  ===============================
+
+[13:45:06]   Loaded.
+[13:45:06]  Loading plugin: Whirlpool.dll
+[13:45:06]  
+[13:45:06]  ==================
+[13:45:06]  
+[13:45:06]   Whirlpool loaded
+[13:45:06]  
+[13:45:06]  ==================
+[13:45:06]  
+[13:45:06]   Loaded.
+[13:45:06]  Loading plugin: fixes2.dll
+[13:45:06] 
+
+[13:45:06]  ===============================
+
+[13:45:06]        fixes plugin loaded.     
+
+[13:45:06]    (c) 2012 Alex "Y_Less" Cole
+
+[13:45:06]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:36:04] 
+[11:36:04] Server Plugins
+[11:36:04] --------------
+[11:36:04]  Loading plugin: streamer.dll
+[11:36:04] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[11:36:04]   Loaded.
+[11:36:04]  Loading plugin: sscanf.dll
+[11:36:04] 
+
+[11:36:04]  ===============================
+
+[11:36:04]       sscanf plugin loaded.     
+
+[11:36:04]    (c) 2009 Alex "Y_Less" Cole
+
+[11:36:04]    0.3d-R2 500 Players "dnee"
+
+[11:36:04]  ===============================
+
+[11:36:04]   Loaded.
+[11:36:04]  Loading plugin: Whirlpool.dll
+[11:36:04]  
+[11:36:04]  ==================
+[11:36:04]  
+[11:36:04]   Whirlpool loaded
+[11:36:04]  
+[11:36:04]  ==================
+[11:36:04]  
+[11:36:04]   Loaded.
+[11:36:04]  Loading plugin: fixes2.dll
+[11:36:04] 
+
+[11:36:04]  ===============================
+
+[11:36:04]        fixes plugin loaded.     
+
+[11:36:04]    (c) 2012 Alex "Y_Less" Cole
+
+[11:36:04]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:36:32] 
+[11:36:32] Server Plugins
+[11:36:32] --------------
+[11:36:32]  Loading plugin: streamer.dll
+[11:36:32] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[11:36:32]   Loaded.
+[11:36:32]  Loading plugin: sscanf.dll
+[11:36:32] 
+
+[11:36:32]  ===============================
+
+[11:36:32]       sscanf plugin loaded.     
+
+[11:36:32]    (c) 2009 Alex "Y_Less" Cole
+
+[11:36:32]    0.3d-R2 500 Players "dnee"
+
+[11:36:32]  ===============================
+
+[11:36:32]   Loaded.
+[11:36:32]  Loading plugin: Whirlpool.dll
+[11:36:32]  
+[11:36:32]  ==================
+[11:36:32]  
+[11:36:32]   Whirlpool loaded
+[11:36:32]  
+[11:36:32]  ==================
+[11:36:32]  
+[11:36:32]   Loaded.
+[11:36:32]  Loading plugin: fixes2.dll
+[11:36:32] 
+
+[11:36:32]  ===============================
+
+[11:36:32]        fixes plugin loaded.     
+
+[11:36:32]    (c) 2012 Alex "Y_Less" Cole
+
+[11:36:32]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[19:33:37] 
+[19:33:37] Server Plugins
+[19:33:37] --------------
+[19:33:37]  Loading plugin: streamer.dll
+[19:33:38] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[19:33:38]   Loaded.
+[19:33:38]  Loading plugin: sscanf.dll
+[19:33:38] 
+
+[19:33:38]  ===============================
+
+[19:33:38]       sscanf plugin loaded.     
+
+[19:33:38]    (c) 2009 Alex "Y_Less" Cole
+
+[19:33:38]    0.3d-R2 500 Players "dnee"
+
+[19:33:38]  ===============================
+
+[19:33:38]   Loaded.
+[19:33:38]  Loading plugin: Whirlpool.dll
+[19:33:38]  
+[19:33:38]  ==================
+[19:33:38]  
+[19:33:38]   Whirlpool loaded
+[19:33:38]  
+[19:33:38]  ==================
+[19:33:38]  
+[19:33:38]   Loaded.
+[19:33:38]  Loading plugin: fixes2.dll
+[19:33:38] 
+
+[19:33:38]  ===============================
+
+[19:33:38]        fixes plugin loaded.     
+
+[19:33:38]    (c) 2012 Alex "Y_Less" Cole
+
+[19:33:38]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[22:32:57] 
+[22:32:57] Server Plugins
+[22:32:57] --------------
+[22:32:57]  Loading plugin: streamer.dll
+[22:32:57] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[22:32:57]   Loaded.
+[22:32:57]  Loading plugin: sscanf.dll
+[22:32:57] 
+
+[22:32:57]  ===============================
+
+[22:32:57]       sscanf plugin loaded.     
+
+[22:32:57]    (c) 2009 Alex "Y_Less" Cole
+
+[22:32:57]    0.3d-R2 500 Players "dnee"
+
+[22:32:57]  ===============================
+
+[22:32:57]   Loaded.
+[22:32:57]  Loading plugin: Whirlpool.dll
+[22:32:57]  
+[22:32:57]  ==================
+[22:32:57]  
+[22:32:57]   Whirlpool loaded
+[22:32:57]  
+[22:32:57]  ==================
+[22:32:57]  
+[22:32:57]   Loaded.
+[22:32:57]  Loading plugin: fixes2.dll
+[22:32:57] 
+
+[22:32:57]  ===============================
+
+[22:32:57]        fixes plugin loaded.     
+
+[22:32:57]    (c) 2012 Alex "Y_Less" Cole
+
+[22:32:57]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[22:35:50] 
+[22:35:50] Server Plugins
+[22:35:50] --------------
+[22:35:50]  Loading plugin: streamer.dll
+[22:35:50] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[22:35:50]   Loaded.
+[22:35:50]  Loading plugin: sscanf.dll
+[22:35:50] 
+
+[22:35:50]  ===============================
+
+[22:35:50]       sscanf plugin loaded.     
+
+[22:35:50]    (c) 2009 Alex "Y_Less" Cole
+
+[22:35:50]    0.3d-R2 500 Players "dnee"
+
+[22:35:50]  ===============================
+
+[22:35:50]   Loaded.
+[22:35:50]  Loading plugin: Whirlpool.dll
+[22:35:50]  
+[22:35:50]  ==================
+[22:35:50]  
+[22:35:50]   Whirlpool loaded
+[22:35:50]  
+[22:35:50]  ==================
+[22:35:50]  
+[22:35:50]   Loaded.
+[22:35:50]  Loading plugin: fixes2.dll
+[22:35:50] 
+
+[22:35:50]  ===============================
+
+[22:35:50]        fixes plugin loaded.     
+
+[22:35:50]    (c) 2012 Alex "Y_Less" Cole
+
+[22:35:50]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[22:39:30] 
+[22:39:30] Server Plugins
+[22:39:30] --------------
+[22:39:30]  Loading plugin: streamer.dll
+[22:39:30] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[22:39:30]   Loaded.
+[22:39:30]  Loading plugin: sscanf.dll
+[22:39:30] 
+
+[22:39:30]  ===============================
+
+[22:39:30]       sscanf plugin loaded.     
+
+[22:39:30]    (c) 2009 Alex "Y_Less" Cole
+
+[22:39:30]    0.3d-R2 500 Players "dnee"
+
+[22:39:30]  ===============================
+
+[22:39:30]   Loaded.
+[22:39:30]  Loading plugin: Whirlpool.dll
+[22:39:30]  
+[22:39:30]  ==================
+[22:39:30]  
+[22:39:30]   Whirlpool loaded
+[22:39:30]  
+[22:39:30]  ==================
+[22:39:30]  
+[22:39:30]   Loaded.
+[22:39:30]  Loading plugin: fixes2.dll
+[22:39:30] 
+
+[22:39:30]  ===============================
+
+[22:39:30]        fixes plugin loaded.     
+
+[22:39:30]    (c) 2012 Alex "Y_Less" Cole
+
+[22:39:30]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[00:20:31] 
+[00:20:31] Server Plugins
+[00:20:31] --------------
+[00:20:31]  Loading plugin: streamer.dll
+[00:20:32] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[00:20:32]   Loaded.
+[00:20:32]  Loading plugin: sscanf.dll
+[00:20:32] 
+
+[00:20:32]  ===============================
+
+[00:20:32]       sscanf plugin loaded.     
+
+[00:20:32]    (c) 2009 Alex "Y_Less" Cole
+
+[00:20:32]    0.3d-R2 500 Players "dnee"
+
+[00:20:32]  ===============================
+
+[00:20:32]   Loaded.
+[00:20:32]  Loading plugin: Whirlpool.dll
+[00:20:32]  
+[00:20:32]  ==================
+[00:20:32]  
+[00:20:32]   Whirlpool loaded
+[00:20:32]  
+[00:20:32]  ==================
+[00:20:32]  
+[00:20:32]   Loaded.
+[00:20:32]  Loading plugin: fixes2.dll
+[00:20:32] 
+
+[00:20:32]  ===============================
+
+[00:20:32]        fixes plugin loaded.     
+
+[00:20:32]    (c) 2012 Alex "Y_Less" Cole
+
+[00:20:32]  ===============================
+

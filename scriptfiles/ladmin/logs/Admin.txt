@@ -1,0 +1,12 @@
+[5.10.2014 5:52:44] You have set "Eagle[EW]'s" score to '200' 
+ [5.10.2014 5:52:54] You have set "Eagle[EW]'s" cash to '$100000000
+ [5.10.2014 9:26:40] You have set "cccc's" score to '888' 
+ [5.10.2014 9:26:48] You have set "cccc's" score to '150000' 
+ [5.10.2014 14:35:23] You have set "[CoD]Suresh's" score to '468366449' 
+ [12.10.2014 6:5:31] You have set "Stark's" score to '25000' 
+ [12.10.2014 6:6:11] You have set "Stark's" score to '250000' 
+ [12.10.2014 6:24:24] You have set "Stark's" score to '900' 
+ [12.10.2014 6:33:9] You have set "[NOM]Eagle[EW]'s" score to '12345' 
+ [12.10.2014 21:9:40] You have set "[NOM]Eagle[EW]'s" score to '250000' 
+ [18.10.2014 6:16:41] Administrator "[NOM]Eagle[EW]" has set your cash to '$550005050'
+ 
